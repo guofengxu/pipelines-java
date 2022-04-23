@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/RA-China-SSB-Team/MES-InnovationSuite/_apis/build/status/guofengxu.pipelines-java?branchName=master)](https://dev.azure.com/RA-China-SSB-Team/MES-InnovationSuite/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
